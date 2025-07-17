@@ -86,10 +86,10 @@ sequenceDiagram
 ---
 
 <div align="center">
-  ✉️ **Contato**: <a href="mailto:gabrieldeoliveiralimasilva@gmail.com">gabrieldeoliveiralimasilva@gmail.com </a> <br> 
-  🌐 **Site**: <a href="https://gabrielgit10110.github.io/" style="padding-right:68px;">https://gabrielgit10110.github.io/ </a> <br>
+  ✉️ Contato: <a href="mailto:gabrieldeoliveiralimasilva@gmail.com">gabrieldeoliveiralimasilva@gmail.com </a> <br> 
+  🌐 Site: <a href="https://gabrielgit10110.github.io/">https://gabrielgit10110.github.io/ </a> <br>
   <br>
-  ✉️ **Contato**: <a href="mailto:gabriel.sordonho@gmail.com" style="padding-right:59px;">gabriel.sordonho@gmail.com </a>
+  ✉️ Contato: <a href="mailto:gabriel.sordonho@gmail.com">gabriel.sordonho@gmail.com </a>
    <br><br>
 </div>  
 
