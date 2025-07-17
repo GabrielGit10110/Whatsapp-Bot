@@ -1,3 +1,5 @@
-# Whatsapp-Bot
+# Whatsapp Bot
 
-### HELLO WORLD
+### Português
+
+### Inglês
