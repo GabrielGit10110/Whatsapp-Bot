@@ -8,4 +8,8 @@
 /dataSources.local.xml
 # 
 .gitignore
+<<<<<<< HEAD
 anotacoes.md
+=======
+anotacoes.md
+>>>>>>> 1f9b4ae402199089f84cd738a813ed759cfd8776
