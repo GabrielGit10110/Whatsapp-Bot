@@ -27,7 +27,7 @@
 ## 📦 Estrutura do Projeto  
 
 ```
-gasbot/  
+Whatsapp-Bot/  
 ├── data/  
 │   ├── clients.json       # Dados dos clientes  
 │   └── orders.json        # Histórico de pedidos  
