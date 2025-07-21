@@ -52,7 +52,7 @@ Whatsapp-Bot/
    ```
 
 3. **Configure as variáveis de ambiente**:  
-   Crie um arquivo `.env` com:  
+   Crie um arquivo `.env` dentro de `src/` com:  
    ```
    TWILIO_ACCOUNT_SID=seu_sid_twilio
    TWILIO_AUTH_TOKEN=seu_token_twilio
