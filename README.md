@@ -22,7 +22,6 @@
 | Backend          | Python 3.10+        |  
 | API WhatsApp     | Twilio API          |  
 | Armazenamento    | JSON                |  
-| Hospedagem       | Render/Heroku       |  
 
 ## 📦 Estrutura do Projeto  
 
@@ -43,9 +42,9 @@ Whatsapp-Bot/
 
 1. **Clone o repositório**:  
    ```bash
-   git clone https://github.com/seu-usuario/gasbot.git
-   cd gasbot
-   ```
+   git clone https://github.com/Biel314/Whatsapp-Bot  
+   cd Whatsapp-Bot
+    ```
 
 2. **Instale as dependências**:  
    ```bash
