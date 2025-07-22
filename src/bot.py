@@ -1,10 +1,14 @@
-from twilio_clients import client, my_phoneNumber
-from message_handler import message
+from twilio_clients import client, my_phoneNumber, snd_phoneNumber
+from message_handler import sndMessage
 
-message = client.messages.create(
-    body=message,
-    from_=my_phoneNumber,
-    to="whatsapp:+5511988402997",  # Implement database numbers in the future
-)
 
-print(message.body)
+def sendMessage():
+    msg = client.messages.create(
+        body=sndMessage,
+        from_=my_phoneNumber,
+        to=snd_phoneNumber,
+    )
+    print(msg.body)
+
+
+sendMessage()

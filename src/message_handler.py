@@ -5,4 +5,4 @@
 #             print("É um prazer")
 #         case "2":
 
-message = "Mensagem de teste padrão..."
+sndMessage = "FLY-FROZEN"
